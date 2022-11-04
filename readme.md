@@ -15,6 +15,6 @@
 
 # Time taken to finish this project is 4 hours.
 
-[Live link]()
+[Live link](https://endearing-platypus-7d892c.netlify.app/)
 
 
